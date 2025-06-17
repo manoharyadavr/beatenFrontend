@@ -2,6 +2,7 @@
   "name": "beaten-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://beatenfrontend.onrender.com",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
