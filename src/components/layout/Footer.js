@@ -216,7 +216,7 @@ const Footer = () => {
               }}
             >
               <img 
-                src="/beaten/logo.png" 
+                src="/Beaten/logo.png" 
                 alt="Beaten Logo" 
                 style={{ 
                   width: '100%', 

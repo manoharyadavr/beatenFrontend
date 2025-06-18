@@ -25,7 +25,7 @@ const bottomNavItems = [
     icon: (
       <Box 
         component="img" 
-        src="/beaten/artboard 3 copy.png" 
+        src="/Beaten/Artboard 3 copy.png" 
         alt="Beaten Logo" 
         sx={{
           width: 40,

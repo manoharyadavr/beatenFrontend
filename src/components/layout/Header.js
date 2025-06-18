@@ -384,7 +384,7 @@ const Header = () => {
               }}
             >
               <img 
-                src="/beaten/logo.png" 
+                src="/Beaten/logo.png" 
                 alt="Beaten Logo" 
                 style={{ 
                   width: '5em', 
@@ -413,7 +413,7 @@ const Header = () => {
               fontSize: '1.5rem'
             }}
           >
-            <img src="/beaten/logo.png" alt="Beaten Logo" style={{ width: '5em', height: 'auto', padding: 0, margin: 0 }} />
+            <img src="/Beaten/logo.png" alt="Beaten Logo" style={{ width: '5em', height: 'auto', padding: 0, margin: 0 }} />
           </Typography>
 
           {/* Desktop Menu */}
